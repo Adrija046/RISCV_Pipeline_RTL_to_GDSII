@@ -25,8 +25,6 @@ filler cells (uniform red) inserted during floorplanning.
 ### Placed Cells
 ![Placement](images/placement.png)
 
-### Instance Hierarchy Breakdown
-![Hierarchy](images/placement_hierarchy.png)
 
 ## Logs
 See `logs/` for global placement, resizer optimization, detailed placement, and STA logs.
