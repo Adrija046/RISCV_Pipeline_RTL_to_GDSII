@@ -6,10 +6,6 @@ Design Rule Check (DRC), along with GDSII generation.
 
 ## Reports
 - [LVS Report](reports/lvs_report.log)
-- [DRC Report](reports/drc_report.drc)
-
-## Visualization
-![Final Layout](images/final_gds.png)
 
 ## Artifacts
 - `Pipeline_top.gds` — final GDSII layout
