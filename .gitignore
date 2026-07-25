@@ -1,12 +1,2 @@
 runs/
-*.log
-*.tmp
-*.odb
-*.def
-*.lef
-*.spef
-
-
-
-
 *.odb
